@@ -4,7 +4,7 @@
 - I created two different painters to accomplish the goal of painting a football on a green background. One painted the background while the other painted the football using methods I created. 
 
 ## Output
-![Football](image-1.png)
+![Football](image.png)
 
 ## Reflection
 
